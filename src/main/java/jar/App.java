@@ -12,6 +12,7 @@ public class App
         System.out.println( "Hello World!-update from dev branch" );
 System.out.println( "changes from Dev branch" );
         System.out.println( "Hello World!-feature changes" );
+   System.out.println( "change for git development" );
 System.out.println( "changes from feature branch" );
 
     }
