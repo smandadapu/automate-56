@@ -11,6 +11,8 @@ public class App
 
         System.out.println( "Hello World!-update from dev branch" );
 System.out.println( "changes from Dev branch" );
+System.out.println( "changes from Dev branch1" );
+System.out.println( "changes from Dev branch2" );
         System.out.println( "Hello World!-feature changes" );
 System.out.println( "changes from feature branch" );
 
